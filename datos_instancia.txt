@@ -1,0 +1,9 @@
+instancia creada con IP 100.25.190.24 
+instancia 100.25.190.24 eliminada 
+instancia creada con IP 3.86.18.234 
+instancia 3.86.18.234 eliminada 
+instancia creada con IP 54.146.93.48 
+instancia 54.146.93.48 eliminada 
+instancia creada con IP 34.207.189.167 
+instancia 100.25.181.160 eliminada 
+instancia 204.236.205.86 eliminada 
